@@ -11,7 +11,7 @@ const mix = require('laravel-mix');
  |
 
 
- ORDEN IMPORTANTE RUTAS
+ ORDEN IMPORTANTE RUTAS NORBEY
  */
 
 mix.styles([
